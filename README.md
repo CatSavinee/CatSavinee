@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my working space in the field of programming
 ## Contact
-+ my [Linkin](https://www.linkedin.com/in/savinee-khraithong-466215227/) profile
++ my [LinkedIn](https://www.linkedin.com/in/savinee-khraithong-466215227/) profile
 + gmail : savinee.khr@student.mahidol.edu
 
 <!--
