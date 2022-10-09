@@ -1,5 +1,9 @@
-### Hi there 👋
-#### my [Linkin](https://www.linkedin.com/in/savinee-khraithong-466215227/) profile
+## Hi there 👋
+Welcome to my working space in the field of programming
+## Contact
++ my [Linkin](https://www.linkedin.com/in/savinee-khraithong-466215227/) profile
++ gmail : savinee.khr@student.mahidol.edu
+
 <!--
 **CatSavinee/CatSavinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
